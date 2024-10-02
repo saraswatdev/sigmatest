@@ -3,7 +3,7 @@
  * Plugin Name: Odds Comparison
  * Description: An advanced odds comparison plugin for displaying live odds from bookmakers.
  * Version: 1.0
- * Author: Your Name
+ * Author: Ravi
  */
 
 defined( 'ABSPATH' ) || exit;

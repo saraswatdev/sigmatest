@@ -1,0 +1,15 @@
+.odds-comparison {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.odds-comparison ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.odds-comparison li {
+    padding: 5px 0;
+}
